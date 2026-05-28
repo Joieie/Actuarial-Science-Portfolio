@@ -58,7 +58,7 @@ This dataset was sourced from **Kaggle**.
 Rizal Technological University, Philippines: Bachelor of Science in Statistics, 2023-2027
 
 ## Certifications
-LIMITLESS: National Youth Summit on Statistics — University of the Philippines Statistical Society, 2026 [Certificate] ( https://drive.google.com/file/d/1LK1RcBGPtnJs4ySZB4FaQu7zqiY3FjFh/view?usp=drive_link )
+LIMITLESS: National Youth Summit on Statistics — University of the Philippines Statistical Society, 2026 [Certificate] (https://drive.google.com/file/d/1LK1RcBGPtnJs4ySZB4FaQu7zqiY3FjFh/view?usp=drive_link)
 
 ## Contacts
 LinkedIn:[@joyodiamar](https://www.linkedin.com/in/joyodiamar/)
